@@ -1,10 +1,11 @@
-<a href="https://github.com/chandanmsr">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanmsr&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/chandanmsr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanmsr&layout=compact&theme=dracula" alt="My Top Languages"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/chandanmsr">
+    <img src="https://github-readme-stats.vercel.app/api?username=chandanmsr&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/chandanmsr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanmsr&layout=compact&theme=dracula" alt="My Top Languages"/>
+  </a>
+</p>
 ---
 
 ### 👋 Hello, I'm Chandan.
