@@ -1,13 +1,13 @@
-<a href="https://github.com/[YOUR-GITHUB-USERNAME]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=dracula&line_height=27" alt="My GitHub Stats"/>
+<a href="https://github.com/chandanmsr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmsr&show_icons=true&theme=dracula&line_height=27" alt="My GitHub Stats"/>
 </a>
-<a href="https://github.com/[YOUR-GITHUB-USERNAME]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=dracula" alt="My Top Languages"/>
+<a href="https://github.com/chandanmsr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanmsr&layout=compact&theme=dracula" alt="My Top Languages"/>
 </a>
 
 ---
 
-### 👋 Hello, I'm [Your Name]
+### 👋 Hello, I'm Chandan.
 
 I am a results-oriented **System Analyst** with a passion for dissecting complex business problems and designing elegant, efficient technical solutions. My expertise lies in translating business requirements into detailed functional specifications, modeling data flows, and ensuring seamless communication between stakeholders and development teams.
 
@@ -31,7 +31,7 @@ Here are some of the technologies and tools I work with:
 
 🔭 **Current Focus & Pinned Projects**
 
-I am currently focused on [Mention a skill you're learning, e.g., "enhancing my data modeling skills" or "exploring cloud infrastructure on AWS/Azure"]. Below are some projects that showcase my work:
+I am currently focused on Streamlining the ieHRMS, A product of Inner Eye Consultancy Services LLP. Below are some projects that showcase my work:
 
 <table width="100%">
   <tr>
