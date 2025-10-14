@@ -17,9 +17,9 @@ On my GitHub, you'll find projects that reflect my core skills: detailed system 
 
 ### 💻 My Tech Stack
 
-<p align="left">
+<p align="Center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,seaborn,mysql,git,jira" />
+    <img src="https://skillicons.dev/icons?i=python,java,figma,git,anaconda,html,css,github,gmail,mysql,vscode,visualstudio " />
   </a>
 </p>
 
