@@ -23,7 +23,7 @@ On my GitHub, you'll find projects that reflect my core skills: detailed system 
   </a>
 </p>
 
-<p align="left">
+<p align="Center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
