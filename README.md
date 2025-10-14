@@ -19,7 +19,7 @@ On my GitHub, you'll find projects that reflect my core skills: detailed system 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,git,jira" />
+    <img src="https://skillicons.dev/icons?i=python,java,seaborn,mysql,git,jira" />
   </a>
 </p>
 
