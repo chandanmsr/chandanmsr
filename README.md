@@ -33,7 +33,7 @@ Here are some of the technologies and tools I work with:
 
 I am currently focused on Streamlining the ieHRMS, A product of Inner Eye Consultancy Services LLP. Below are some projects that showcase my work:
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td width="50%">
       <h3>📄 System Design: Inventory Management System</h3>
@@ -60,12 +60,11 @@ I am currently focused on Streamlining the ieHRMS, A product of Inner Eye Consul
   </tr>
 </table>
 
----
+--- -->
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/your-profile-url)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **Portfolio/Blog:** [your-website.com](https://your-website.com)
+* **LinkedIn:** [Click Here to Connect](https://linkedin.com/in/chandanmsr)
+* **Email:** [ichandanmsr@gmail.com](mailto:ichandanmsr@gmail.com)
 
 ---
