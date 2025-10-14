@@ -21,11 +21,10 @@ Here are some of the technologies and tools I work with:
 
 | **Area** | **Tools & Technologies** |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages & Databases** | `SQL` `Python (for scripting)` `JSON` `XML` `MySQL` `PostgreSQL` `Microsoft SQL Server`                                                               |
-| **Analysis & Design** | `UML` `BPMN` `ERD (Entity-Relationship Diagrams)` `Data Flow Diagrams` `Lucidchart` `draw.io` `Visio`                                                      |
-| **Project Management** | `Jira` `Confluence` `Trello` `Asana` `Agile/Scrum Methodologies`                                                                                      |
-| **API & Integration** | `REST APIs` `SOAP` `Postman`                                                                                                                         |
-| **BI & Visualization** | `Tableau` `Power BI` `Microsoft Excel (Advanced)`                                                                                                   |
+| **Languages & Databases** | `Python` `JSON` `MySQL` `Microsoft SQL Server`                                                               |
+| **Analysis & Design** | `ERD (Entity-Relationship Diagrams)` `Data Flow Diagrams` `Lucidchart` `draw.io`                                                      |
+| **Project Management** | `Zoho Projects` `Jira` `Agile/Scrum Methodologies`                                                                                      |
+| **BI & Visualization** | `Seaborn` `Power BI` `Microsoft Excel (Advanced)`                                                                                                   |
 
 ---
 
