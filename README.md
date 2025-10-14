@@ -1,5 +1,5 @@
 <a href="https://github.com/chandanmsr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmsr&show_icons=true&theme=dracula&line_height=27" alt="My GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandanmsr&show_icons=true&theme=dracula&hide_rank=true" />
 </a>
 <a href="https://github.com/chandanmsr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanmsr&layout=compact&theme=dracula" alt="My Top Languages"/>
