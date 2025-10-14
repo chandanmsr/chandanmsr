@@ -61,6 +61,21 @@ I am currently focused on Streamlining the ieHRMS, A product of Inner Eye Consul
 
 --- -->
 
+### 💻 My Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,postgres,docker,aws,postman,git,jira,linux" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
+
 ### 📫 How to Reach Me
 
 * **LinkedIn:** [Click Here to Connect](https://linkedin.com/in/chandanmsr)
