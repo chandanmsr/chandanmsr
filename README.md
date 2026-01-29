@@ -3,6 +3,7 @@ I am currently serving as a System Analyst at Inner Eye Consultancy Services LLP
 
 
 ## 🌐 Socials:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aca5524b-a8dd-4fd6-920f-0e4db1774f7d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chandanmsr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandanmsr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ichandanmsr@gmail.com) 
 
 # 💻 Tech Stack:
