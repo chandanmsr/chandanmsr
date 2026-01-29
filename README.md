@@ -21,9 +21,6 @@ I am currently serving as a System Analyst at Inner Eye Consultancy Services LLP
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chandanmsr&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 
 
