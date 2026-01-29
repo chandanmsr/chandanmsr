@@ -1,5 +1,8 @@
 # 💫 About Me:
 I am currently serving as a System Analyst at Inner Eye Consultancy Services LLP, where I play a central role in the development of LIMS and HRMS projects.<br><br>I act as the primary Project Coordinator, managing our team's daily tasks and workflows through Zoho Projects.<br><br>I serve as the bridge between my team and leadership by representing our technical progress and updates in high-level meetings.<br><br>I take a hands-on approach to the design phase by creating the initial prototypes to visualize project requirements.<br><br>I manage client relationships and communications to ensure our technical solutions align with their specific business needs.<br><br>I am responsible for the full suite of technical documentation, including the authoring of BRD, SRS, and SDD reports.<br><br>I maintain project momentum by constantly monitoring updates, adjusting timelines, and ensuring every deliverable meets our quality standards.
+## 🏅 Certifications & Badges
+
+[![Credly Badge](Assets/isc2-candidate.png)](https://www.credly.com/badges/aca5524b-a8dd-4fd6-920f-0e4db1774f7d)
 
 
 ## 🌐 Socials:
@@ -21,7 +24,6 @@ I am currently serving as a System Analyst at Inner Eye Consultancy Services LLP
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chandanmsr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=chandanmsr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
