@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently serving as a System Analyst at Inner Eye Consultancy Services LLP, where I play a central role in the development of LIMS and HRMS projects.<br><br>I act as the primary Project Coordinator, managing our team's daily tasks and workflows through Zoho Projects.<br><br>I serve as the bridge between my team and leadership by representing our technical progress and updates in high-level meetings.<br><br>I take a hands-on approach to the design phase by creating the initial prototypes to visualize project requirements.<br><br>I manage client relationships and communications to ensure our technical solutions align with their specific business needs.<br><br>I am responsible for the full suite of technical documentation, including the authoring of BRD, SRS, and SDD reports.<br><br>I maintain project momentum by constantly monitoring updates, adjusting timelines, and ensuring every deliverable meets our quality standards.
+I am currently serving as an Application Developer (FullStack) at IBM.
 ## 🏅 Certifications & Badges
 
 [![Credly Badge](Assets/isc2-candidate.png)](https://www.credly.com/badges/aca5524b-a8dd-4fd6-920f-0e4db1774f7d)
