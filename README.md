@@ -4,7 +4,7 @@ I am currently serving as an Application Developer (FullStack) at IBM.
 
 [![Credly Badge](Assets/isc2-candidate.png)](https://www.credly.com/badges/aca5524b-a8dd-4fd6-920f-0e4db1774f7d)
 
-[![Second Badge](https://images.credly.com/size/150x150/images/your-second-badge-id.png)](https://www.credly.com/badges/572be828-b0c4-4f02-8ab7-3ab0c4d5a4d3)
+[![Second Badge (Assets/INM-Garage.png)](https://images.credly.com/size/150x150/images/your-second-badge-id.png)](https://www.credly.com/badges/572be828-b0c4-4f02-8ab7-3ab0c4d5a4d3)
 
 
 ## 🌐 Socials:
