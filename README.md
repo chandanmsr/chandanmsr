@@ -2,7 +2,8 @@
 .NET Full Stack Application Developer at IBM specializing in building scalable, robust enterprise applications. With deep technical expertise across modern frameworks—including ASP.NET, ADO.NET, Angular, React, and SQL—I engineer end-to-end solutions from dynamic frontend interfaces to powerful database architectures. Leveraging my prior background as a System Analyst, I bring a distinct analytical edge to software development, allowing me to seamlessly bridge complex business requirements with clean, high-performance technical execution. Passionate about continuous learning and solving impactful engineering challenges. Let’s connect!
 ## 🏅 Certifications & Badges
 
-[![Credly Badge](Assets/isc2-candidate.png)](https://www.credly.com/badges/aca5524b-a8dd-4fd6-920f-0e4db1774f7d) [![Second Badge](Assets/IBM-Garage.png)](https://www.credly.com/badges/572be828-b0c4-4f02-8ab7-3ab0c4d5a4d3)
+[![Credly Badge](Assets/isc2-candidate.png)](https://www.credly.com/badges/aca5524b-a8dd-4fd6-920f-0e4db1774f7d) [![Second Badge](Assets/IBM-Garage.png)](https://www.credly.com/badges/572be828-b0c4-4f02-8ab7-3ab0c4d5a4d3) [![Second Badge](Assets/EDT.png)](https://www.credly.com/badges/63d6c017-7738-4877-9a95-69a837fdf845/public_url)
+
 
 
 
